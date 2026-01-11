@@ -6,7 +6,7 @@ It allows users to start, pause, and reset time with accurate millisecond tracki
 ---
 
 ## Live Preview : 
-
+(https://simple-stopwatch-js.vercel.app/)
 ---
 
 ## 🚀 Features
