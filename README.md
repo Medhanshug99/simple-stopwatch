@@ -1,4 +1,4 @@
-# ⏱️ Stopwatch Web App
+#  Stopwatch Web App
 
 A simple and responsive stopwatch   
 It allows users to start, pause, and reset time with accurate millisecond tracking.
@@ -9,14 +9,14 @@ It allows users to start, pause, and reset time with accurate millisecond tracki
 (https://simple-stopwatch-js.vercel.app/)
 ---
 
-## 🚀 Features
+##  Features
 - Start / Pause functionality
 - Reset stopwatch
 - Millisecond precision
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML
 - CSS
 - JavaScript
